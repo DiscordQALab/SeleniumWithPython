@@ -34,3 +34,5 @@ Adicione seu endereço de e-mail:
 
 `OBS: envie seu e-mail para o Felipe Loureiro é necessário para realizar o pull request`
 
+#Acesse o Discord do lab é aberto, por lá fica fácil de compartilhar a tela, conversar e compartilhar conteudo. 
+https://discord.gg/tYG7zNNcDp
