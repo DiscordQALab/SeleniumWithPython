@@ -22,6 +22,9 @@ https://git-scm.com/download/
 ##Instalação selenium
 `pip install selenium`
 
+## Verificando se tudo deu certo
+Caso vc utilize o vscode aperto o play do lado esqueto da tela e veja se o teste rodou, caso tenha algum problema só avisa do grupo do telegran da CTG 2.0
+
 ## Para fazer um pull resquest é necessário configurar seu usuário.
 
 Crie um arquivo para armazezar suas credenciais com `git init`
