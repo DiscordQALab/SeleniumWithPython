@@ -1,5 +1,7 @@
 # Selenium With Python
 
+Projeto criado por alunos do CTG 2.0 com intuito de apreender novas ferramentas e linguagens em conjunto
+
 ## Instalação e configuração python
 Baixe o python e instale
 https://www.python.org/downloads/
