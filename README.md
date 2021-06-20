@@ -1,24 +1,28 @@
 # Selenium With Python
 
-#Instalação e configuração python
-- Baixe o python e instale
+## Instalação e configuração python
+Baixe o python e instale
 https://www.python.org/downloads/
 
-- Configuração para o comando pip ser reconhecido dentro do projeto no terminal
+Configuração para o comando pip ser reconhecido dentro do projeto no terminal
 Em váriaveis de ambiente de sistema caso utilize windows:
 
 Nome da váriavel: pip
 Valor da váriavel: Add aqui o local da pasta scripts que fica dentro da pasta do python
 
-#Baixe o projeto
+## Instale o git 
+
+https://git-scm.com/download/
+
+## Baixe o projeto
 `git clone` https://github.com/FelipeLoureiro/SeleniumWithPython.git
 
 `git remote add origin` https://github.com/FelipeLoureiro/SeleniumWithPython.git
 
-#Instalação selenium
+##Instalação selenium
 `pip install selenium`
 
-#Para fazer um pull resquest é necessário configurar seu usuário.
+## Para fazer um pull resquest é necessário configurar seu usuário.
 
 Crie um arquivo para armazezar suas credenciais com `git init`
 
