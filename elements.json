@@ -5,6 +5,8 @@
     "selecionarCapacidade":"#root > div.rf-flagship > div.rf-flagship-buyflow.as-l-container.row.rf-flagship-buyflow-leadbyproductselection > div.column.large-5.large-offset-1.small-offset-0.small-12.rf-flagship-buyflow-columnright > div.rf-flagship-productselection > div:nth-child(3) > fieldset > div > div:nth-child(1) > label",
     "colocarSacola": "#root > div.rf-flagship > div.rf-flagship-buyflow.as-l-container.row.rf-flagship-buyflow-leadbyproductselection > div.column.large-5.large-offset-1.small-offset-0.small-12.rf-flagship-buyflow-columnright > div.rf-flagship-summary-wrapper > div.rf-flagship-summary > div > div.rc-summary-button-box > div.rc-summary-button > form > div > span > button",
     "verSacola":"#root > div.rf-attach > div > div > div.rf-summary-header-right > div > form > button",
-    "pagar":"#shoppingCart.actions.navCheckout"
-    
+    "pagar":"#bag-content > div.rs-bag-button-header.large-12 > div.row.rs-bag-checkoutbutton-header > div > div > div > button",
+    "continuarComoCovidado":"#signin-container > div.rs-sign-in.rs-sign-in-checkout.rs-sign-in-has-idms > div > div.rs-sign-in-sidebar.column.small-12.rs-sign-in-has-guest-checkout > div > div > button",
+    "cep":"#recon-0-7",
+    "aplicarCEP":"#checkout-container > div > div.rs-checkout > div:nth-child(1) > div.rs-module-loader > div > div > div:nth-child(1) > div > div > div > div > div:nth-child(1) > div > div:nth-child(2) > div > div:nth-child(1) > div:nth-child(1) > div > div > button > span > span:nth-child(1)"
 }
