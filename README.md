@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://discord.gg/tYG7zNNcDp"><img src="https://img.shields.io/discord/531491560567734292.svg?color=7289DA&label=DISCORD&logo=discord&style=for-the-badge" alt="Discord" /></a>
+  </a>
+</div>
+
 # Selenium With Python
 
 Projeto criado por alunos do CTG 2.0 com intuito de apreender novas ferramentas e linguagens em conjunto
